@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Milio Android Project
+- 🌱 I’m currently learning Firebase, NodeJS
+- 📫 How to reach me: mail.sophara@gmail.com
 <!--
 **sopharasum/sopharasum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
